@@ -1,0 +1,22 @@
+{
+    "entities": [
+        {
+            "id": "a6d9079b16ee6312d24266113aa36c3c",
+            "label": "kdavistwelve",
+            "properties": {
+                "Account Type": "AskFM",
+                "Web Address": "https://ask.fm/kdavistwelve"
+            },
+            "type": "Social Media Account"
+        },
+        {
+            "id": "6c6098c01d3311fc7365b4ff002bea60",
+            "label": "kdavistwelve",
+            "properties": {
+                "Account Type": "Carbonmade",
+                "Web Address": "https://kdavistwelve.carbonmade.com"
+            },
+            "type": "Account"
+        }
+    ]
+}
